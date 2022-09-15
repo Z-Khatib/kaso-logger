@@ -2,6 +2,7 @@
   "name": "kaso-logger",
   "version": "1.0.0",
   "description": "",
+  "keywords": ["datadog-winston-transport", "datadog-transport"],
   "main": "index.js",
   "scripts": {
     "build": "nest build",
