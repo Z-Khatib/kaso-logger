@@ -1,6 +1,6 @@
 {
   "name": "kaso-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "keywords": ["datadog-winston-transport", "datadog-transport"],
   "main": "index.js",
