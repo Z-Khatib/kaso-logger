@@ -1,0 +1,28 @@
+{
+  "name": "kaso-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Z-Khatib/kaso-logger.git"
+  },
+  "author": "zainkhatib9@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Z-Khatib/kaso-logger/issues"
+  },
+  "homepage": "https://github.com/Z-Khatib/kaso-logger#readme",
+  "devDependencies": {
+    "@types/encodeurl": "^1.0.0",
+    "@types/node": "^18.7.18",
+    "axios": "^0.27.2",
+    "encodeurl": "^1.0.2",
+    "logform": "^2.4.2",
+    "typescript": "^4.8.3",
+    "winston-transport": "^4.5.0"
+  }
+}
